@@ -1,0 +1,14 @@
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\bin\Debug\net8.0\Варіант 12. Завдання 4.exe
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\bin\Debug\net8.0\Варіант 12. Завдання 4.deps.json
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\bin\Debug\net8.0\Варіант 12. Завдання 4.runtimeconfig.json
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\bin\Debug\net8.0\Варіант 12. Завдання 4.dll
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\bin\Debug\net8.0\Варіант 12. Завдання 4.pdb
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\obj\Debug\net8.0\Варіант 12. Завдання 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\obj\Debug\net8.0\Варіант 12. Завдання 4.AssemblyInfoInputs.cache
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\obj\Debug\net8.0\Варіант 12. Завдання 4.AssemblyInfo.cs
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\obj\Debug\net8.0\Варіант 12. Завдання 4.csproj.CoreCompileInputs.cache
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\obj\Debug\net8.0\Варіант 12. Завдання 4.dll
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\obj\Debug\net8.0\refint\Варіант 12. Завдання 4.dll
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\obj\Debug\net8.0\Варіант 12. Завдання 4.pdb
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\obj\Debug\net8.0\Варіант 12. Завдання 4.genruntimeconfig.cache
+D:\Directory\Варіант 12. Завдання 4\Варіант 12. Завдання 4\obj\Debug\net8.0\ref\Варіант 12. Завдання 4.dll
